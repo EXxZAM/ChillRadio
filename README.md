@@ -10,7 +10,7 @@ install the packages:
 
 run ChillRadio on localhost:
 
-       npm run dev
+    npm run dev
 
 ## Listen to Lofi Music Now!
 
