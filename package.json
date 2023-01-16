@@ -1,0 +1,30 @@
+{
+  "name": "chillradio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-audio-control": "^1.0.4",
+    "react-dom": "^18.2.0",
+    "react-media-control": "^1.0.1",
+    "react-player": "^2.11.0",
+    "react-youtube": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.3"
+  }
+}
