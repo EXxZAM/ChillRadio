@@ -47,7 +47,7 @@ const RadioList = () => {
                         if (video.id != "0")
                             return (
                                 <li
-                                    className="flex text-[15px] cursor-pointer hover:font-bold hover:text-[20px]"
+                                    className="flex text-[15px] cursor-pointer hover:font-bold "
                                     onClick={() => {
                                         changeVideo(video.id);
                                         playVideo(true);
